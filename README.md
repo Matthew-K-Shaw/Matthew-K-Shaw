@@ -3,20 +3,20 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <a href="https://www.dropbox.com/scl/fi/39kcbhkx3m01256a1sdli/Algorithm-for-file-updates-in-Python.pdf?rlkey=6ekry1apecv1ag1ga6l96cp50&dl=0">Algorithm for File Updates In Python</a>
+- <b>Algorithim for File Updates In Python</b>
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Applying Filters to SQL Queries</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Controls and Compliance Checklist</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>File Permissions in Linux </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Incident Report Analysis</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Vulnerablitiy Assement Report</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Incident Handler's Journal</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [View Dropbox Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 <h2>Education:</h2>
 <b> Nothern Arizona University</b>
 <br>
