@@ -1,6 +1,6 @@
 <h1>Matthew Shaw</h1>  
 <b>Aspiring Cybersecurity Specialst</b>
-<h2>About:</h2>
+<h2> :mag_right: About Me:</h2>
 <b>Transitioning from a dynamic role as a Business Development and Operations Manager in a cutting-edge startup, where I played a pivotal role in fostering innovation at Aqua Rev, I've embarked on an exhilarating journey into the rapidly evolving realm of cybersecurity. With a background in Hospitality Management, my early career honed my communication and motivation skills, setting the foundation for building strong relationships and fostering collaboration. Now, as I navigate the intricacies of cybersecurity, I bring a unique blend of business acumen and interpersonal finesse. Armed with analytical expertise and a deep understanding of threat assessment, I am poised to contribute to the forefront of technological security, driven by a passion for continuous learning and a commitment to tackling new challenges head-on.</b>
 
 
@@ -20,14 +20,14 @@
   - [View Dropbox Link](https://www.dropbox.com/scl/fi/kezg4bgtq7e0xdak9q12k/Vulnerablitiy-Assement-Report.pdf?rlkey=pb0qot8j3omfxax53rynfuzoo&dl=0)
 - <b>Incident Handler's Journal</b>
   - [View Dropbox Link](https://www.dropbox.com/scl/fi/2aoby2dd68deizmr2f75c/Incident-Handler-s-Journal.pdf?rlkey=sdvjt3uzm555li1liigsbm5sm&dl=0)
-<h2>Education:</h2>
+<h2> :open_book: Education:</h2>
 <b> Nothern Arizona University</b>
 <br>
 - <b>Bachelor's Degree, Hotel and Restaurant Management</b>
 <br>
 - <b>Minor in Asian Studies (Chinese)</b>
   
-<h2>Certifications:</h2>
+<h2> :scroll: Certifications:</h2>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/MVSGQ749EFWW/">Cybersecurity Google Certificate</a>
 
 -<b>CompTIA Security+ (In progress)</b>
