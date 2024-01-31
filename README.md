@@ -3,8 +3,7 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Algorithm for File Updates in Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <a href="https://www.dropbox.com/scl/fi/39kcbhkx3m01256a1sdli/Algorithm-for-file-updates-in-Python.pdf?rlkey=6ekry1apecv1ag1ga6l96cp50&dl=0">Algorithm for File Updates In Python</a>
 - <b>Applying Filters to SQL Queries</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Controls and Compliance Checklist</b>
