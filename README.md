@@ -19,7 +19,11 @@
 - <b>Vulnerablitiy Assement Report</b>
   - [View Dropbox Link](https://www.dropbox.com/scl/fi/kezg4bgtq7e0xdak9q12k/Vulnerablitiy-Assement-Report.pdf?rlkey=pb0qot8j3omfxax53rynfuzoo&dl=0)
 - <b>Incident Handler's Journal</b>
-  - [View Dropbox Link](https://www.dropbox.com/scl/fi/2aoby2dd68deizmr2f75c/Incident-Handler-s-Journal.pdf?rlkey=sdvjt3uzm555li1liigsbm5sm&dl=0)
+  -  [View Dropbox Link](https://www.dropbox.com/scl/fi/2aoby2dd68deizmr2f75c/Incident-Handler-s-Journal.pdf?rlkey=sdvjt3uzm555li1liigsbm5sm&dl=0)
+
+ <h2>👨‍💻 Resume:</h2>
+   - <a href="https://github.com/Matthew-K-Shaw/Resume/blob/main/Matthew%20Shaw%20Cyber%20Security%20.pdf">View Resume</a>
+
 <h2> :open_book: Education:</h2>
 <b> Nothern Arizona University</b>
 <br>
