@@ -1,7 +1,7 @@
 <h1>Matthew Shaw</h1>  
 <b>Aspiring Cybersecurity Specialst</b>
 <h2> :mag_right: About Me:</h2>
-<b>Transitioning from a dynamic role as a Business Development and Operations Manager in a cutting-edge startup, where I played an important role in growing profits at Aqua Rev, I've embarked on an exciting journey into the rapidly evolving field of cybersecurity. With a background in Hospitality Management, my early career honed my communication and motivation skills, setting the foundation for building strong relationships and fostering collaboration and innovation. Now, as I navigate cybersecurity, I bring a unique blend of business ingenuity and personal finesse. Equipped with analytical skills and a nderstanding of threat assessment, I am poised to contribute to the forefront of technological security, driven by a passion for continuous learning and a commitment to tackling new challenges head-on.</b>
+<b>Transitioning from a dynamic role as a Business Development and Operations Manager in a cutting-edge startup, where I played an important role in growing profits at Aqua Rev, I've embarked on an exciting journey into the rapidly evolving field of cybersecurity. With a background in Hospitality Management, my early career honed my communication and motivation skills, setting the foundation for building strong relationships and fostering collaboration and innovation. As I navigate cybersecurity, I bring a unique blend of business ingenuity and personal finesse. Equipped with analytical skills and an understanding of threat assessment, I am poised to contribute to the forefront of technological security, driven by a passion for continuous learning and a commitment to tackling new challenges head-on.</b>
 
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -16,13 +16,13 @@
   - [View Dropbox Link](https://www.dropbox.com/scl/fi/94m0cskfldaf9p8qlcgkp/File-Permissions-in-Linux.pdf?rlkey=0qhnxx17x2wfwv94dfk7flrlx&dl=0)
 - <b>Incident Report Analysis</b>
   - [View Dropbox Link](https://www.dropbox.com/scl/fi/psmnfl1bcrlydv2ty73ln/Incident-Report-Analysis.pdf?rlkey=0q4vafe33if670sa4vdhcq6rx&dl=0)
-- <b>Vulnerablitiy Assement Report</b>
-  - [View Dropbox Link](https://www.dropbox.com/scl/fi/kezg4bgtq7e0xdak9q12k/Vulnerablitiy-Assement-Report.pdf?rlkey=pb0qot8j3omfxax53rynfuzoo&dl=0)
+- <b>Vulnerablitiy Assessment Report</b>
+  - [View Dropbox Link](https://www.dropbox.com/scl/fi/kezg4bgtq7e0xdak9q12k/Vulnerability-Assessment-Report.pdf?rlkey=pb0qot8j3omfxax53rynfuzoo&dl=0)
 - <b>Incident Handler's Journal</b>
   -  [View Dropbox Link](https://www.dropbox.com/scl/fi/2aoby2dd68deizmr2f75c/Incident-Handler-s-Journal.pdf?rlkey=sdvjt3uzm555li1liigsbm5sm&dl=0)
 
  <h2> :bookmark_tabs: Resume:</h2>
-   - <a href="https://www.dropbox.com/scl/fi/q5hsv6i36k61ptrudl0yr/Matthew-Shaw-Cyber-Security.pdf?rlkey=h6qj8bmgswdal3wrgbwcfot9l&dl=0">View Dropbox Link</a>
+   - <a href="https://www.dropbox.com/scl/fi/1vzsfi6g5uhtst1a3ei7v/Matthew-Shaw-Cyber-Security.pdf?rlkey=ifmlcuv41282q72djlx6mekdo&dl=0">View Dropbox Link</a>
 
 <h2> :open_book: Education:</h2>
 <b> Nothern Arizona University</b>
