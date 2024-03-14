@@ -22,7 +22,7 @@
   -  [View Dropbox Link](https://www.dropbox.com/scl/fi/2aoby2dd68deizmr2f75c/Incident-Handler-s-Journal.pdf?rlkey=sdvjt3uzm555li1liigsbm5sm&dl=0)
 
  <h2> :bookmark_tabs: Resume:</h2>
-   - <a href="https://www.dropbox.com/scl/fi/1vzsfi6g5uhtst1a3ei7v/Matthew-Shaw-Cyber-Security.pdf?rlkey=ifmlcuv41282q72djlx6mekdo&dl=0">View Dropbox Link</a>
+   - <a href="https://www.dropbox.com/scl/fi/a1cjjhe3hg66y02n7vncy/Matthew-Shaw-Cybersecurity-Specialist.docx?rlkey=xut03io7on130z0v5ointjywv&dl=0">View Dropbox Link</a>
 
 <h2> :open_book: Education:</h2>
 <b> Nothern Arizona University</b>
