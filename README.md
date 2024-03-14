@@ -32,9 +32,10 @@
 - <b>Minor in Asian Studies (Chinese)</b>
   
 <h2> :scroll: Certifications:</h2>
-- <a href="https://www.coursera.org/account/accomplishments/specialization/MVSGQ749EFWW/">Cybersecurity Google Certificate</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/MVSGQ749EFWW/">Cybersecurity Google Certificate</a>
 
--<b>CompTIA Security+ (In progress)</b>
+<a href="https://www.coursera.org/account/accomplishments/specialization/MVSGQ749EFWW/](https://www.credly.com/badges/66c94b71-0444-40a0-8c1d-e8f647e87e8b/public_url)">CompTIA Security+ </a>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Matthew-K-Shaw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
